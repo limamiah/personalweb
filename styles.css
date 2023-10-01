@@ -1,0 +1,22 @@
+body {
+  background-color: cornsilk;
+
+}
+
+.marked {
+    font-weight: bold;
+    color: red;
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+.second {
+    font-weight: bold;
+    color: red;
+    font-style: italic;
+}
+
+.first {
+    border: lightgrey 4px solid;
+    border-radius: 4px;
+}
